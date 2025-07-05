@@ -3,11 +3,11 @@ layout: home
 sidebar: false
 
 title: ITCoder
-titleTemplate: 记录回忆，知识和畅想的地方
+titleTemplate: 记录知识的地方
 
 hero:
   name: ITCoder
-  text: 记录回忆，知识和畅想的地方
+  text: 记录知识的地方
   tagline: 好记性不如烂笔头
   image:
     src: /logo.svg
@@ -32,4 +32,4 @@ features:
     icon: 🗃
 ---
 
-<HomePage />
+<!--HomePage /-->
