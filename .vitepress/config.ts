@@ -128,6 +128,7 @@ export default defineConfig({
   themeConfig: {
     outline: { label: '页面大纲', level: 'deep' },
     darkModeSwitchLabel: '切换主题',
+    /**
     editLink: {
       pattern: `${githubRepoLink}/tree/main/:path`,
       text: '编辑本页面',
@@ -136,6 +137,7 @@ export default defineConfig({
       { icon: 'github', link: githubRepoLink },
       { icon: 'discord', link: discordLink },
     ],
+    */
     footer: {
       message: '用 <span style="color: #e25555;">&#9829;</span> 撰写',
       copyright:
