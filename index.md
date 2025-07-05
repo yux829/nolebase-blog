@@ -9,9 +9,6 @@ hero:
   name: ITCoder
   text: 记录知识的地方
   tagline: 好记性不如烂笔头
-  image:
-    src: /logo.svg
-    alt: Vitest
   actions:
     - theme: brand
       text: 开始阅读
