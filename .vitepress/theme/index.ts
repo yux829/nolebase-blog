@@ -148,13 +148,14 @@ const ExtendedTheme: Theme = {
     // Get frontmatter and route
     const { frontmatter } = toRefs(useData());
     const route = useRoute();
-    
+
+
     // Obtain configuration from: https://giscus.app/
     giscusTalk({
-      repo: 'Jackiexiao/nolebase-template',
-      repoId: 'R_kgDOL5WHsg',
+      repo: 'yux829/nolebase-blog',
+      repoId: 'R_kgDOPHHZ4Q',
       category: 'Announcements', // default: `General`
-      categoryId: 'DIC_kwDOL5WHss4CfTYs',
+      categoryId: 'DIC_kwDOPHHZ4c4CsgXG',
       mapping: 'url', // default: `pathname`
       inputPosition: 'top', // default: `top`
       lang: 'zh-CN', // default: `zh-CN`
